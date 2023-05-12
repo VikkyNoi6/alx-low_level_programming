@@ -1,12 +1,12 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 
 /**
- * main -  prints all arguments a program receives.
+ * main - prints all arguments a program receives.
  * @argc: argument count
  * @argv: argument vector
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(int argc, char *argv[])
